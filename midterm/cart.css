@@ -1,0 +1,37 @@
+
+nav.navbar {
+  background-color: #f8f9fa; 
+}
+
+nav.navbar a.navbar-brand {
+  font-weight: bold; 
+}
+
+nav.navbar a.nav-link {
+  color: #212529; 
+  font-weight: 500; 
+}
+
+
+body{
+
+}
+form {
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 0; 
+  background-color: white;
+  border-color: red;
+  
+}
+#form-border{
+display:flex;
+justify-content: space-around;
+
+}
+#form-cart{
+ border-style: solid;
+ 
+}
+
+
