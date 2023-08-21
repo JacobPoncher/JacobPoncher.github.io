@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JacobPoncher.github.io/static/css/main.2df8fc80.css",
+    "main.js": "/JacobPoncher.github.io/static/js/main.64824cd7.js",
+    "static/js/787.6653abfd.chunk.js": "/JacobPoncher.github.io/static/js/787.6653abfd.chunk.js",
+    "index.html": "/JacobPoncher.github.io/index.html",
+    "main.2df8fc80.css.map": "/JacobPoncher.github.io/static/css/main.2df8fc80.css.map",
+    "main.64824cd7.js.map": "/JacobPoncher.github.io/static/js/main.64824cd7.js.map",
+    "787.6653abfd.chunk.js.map": "/JacobPoncher.github.io/static/js/787.6653abfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df8fc80.css",
+    "static/js/main.64824cd7.js"
+  ]
+}
